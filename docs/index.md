@@ -9,9 +9,14 @@ nav_order: 1
 
 ![cute puppy](https://upload.wikimedia.org/wikipedia/commons/f/ff/Raskal.jpg)
 1. puppy
+🐕
 2. horse
 :racehorse:
 3. shark
+4. 🦈
 - mango
+🥭
 - raspberries
+:raspberries:
 - blueberries
+🫐
